@@ -16,7 +16,7 @@ _______________
 	$ pkg install git
 	$ pkg install python2
 	$ git clone https://github.com/loading07/eye-Ddos.git
-	$ cd eagle-dos.py
+	$ cd eye-Ddos.py
 	$ git pull
 	$ python eye-Ddos.py
  
